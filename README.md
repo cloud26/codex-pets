@@ -1,4 +1,5 @@
 # codex-pets
 
 ## Twinkletwinkle
-<video controls src="twinkletwinkle/twinkletwinkle.mp4" title="Title"></video>
+
+[Watch the Twinkletwinkle video](https://github.com/cloud26/codex-pets/blob/master/twinkletwinkle/twinkletwinkle.mp4)
