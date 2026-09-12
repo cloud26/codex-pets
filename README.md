@@ -2,4 +2,4 @@
 
 ## Twinkletwinkle
 
-[![Twinkletwinkle preview](twinkletwinkle/spritesheet.webp)](twinkletwinkle/twinkletwinkle.mp4)
+![Twinkletwinkle](twinkletwinkle/twinkletwinkle.gif)
